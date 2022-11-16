@@ -3,7 +3,7 @@ Author: Alphonse Brandon
 Last Updated Date: 11/17/2022
 Last Updated Time: 12:30 AM
 
-Description: This script contains all the function used in building an nlp model based on users ratings and comments
+Description: This script contains all the function used in building my nlp model based on users ratings and comments on movies
 '''
 
 import pandas as pd
