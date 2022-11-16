@@ -66,9 +66,9 @@ def get_the_model_accuracy():
     pred = clf.predict(X_test)
     return accuracy_score(y_test, pred)*100
 
-def save_the_mode():
-    '''This function saves the trained model'''
-    pickle.dump(clf, open(save_the_mode_path, 'wb'))
+# def save_the_mode():
+#     '''This function saves the trained model'''
+#     pickle.dump(clf, open(save_the_mode_path, 'wb'))
 
 def get_first_five_sentiments():
     '''This function gets the sentiments from the comments and categorizes them as good or bad'''
