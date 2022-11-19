@@ -32,6 +32,7 @@ Build an NLP model and use it to predict sentiments in users comments
 * NLTK
 * Machine Learning (supervised learning)
 * Pandas, Numpy
+* NLP
 
 ### Project Describtion
 
