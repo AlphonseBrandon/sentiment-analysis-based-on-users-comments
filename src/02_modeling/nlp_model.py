@@ -21,12 +21,4 @@ from sklearn import naive_bayes
 import pickle
 
 
-# functions_used.download_stopwords()
-functions_used.initialising_paths()
-functions_used.load_data()
-functions_used.set_language()
-functions_used.make_vectorizer()
-functions_used.load_the_features()
-functions_used.split_the_data()
-functions_used.teach_the_model()
-functions_used.get_first_five_sentiments()
+functions_used.preprocessing()

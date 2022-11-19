@@ -87,3 +87,15 @@ def get_first_five_sentiments():
     # Combining reviews and comments into a dictionary
     movie_reviews = {reviews_list[i]: reviews_status[i] for i in range(len(reviews_list))}
     return movie_reviews
+
+def preprocessing():
+    '''This functions sets the pipeline used in the model building'''
+    download_stopwords()
+    initialising_paths()
+    load_data()
+    set_language()
+    make_vectorizer()
+    load_the_features()
+    split_the_data()
+    teach_the_model()
+    get_first_five_sentiments()
