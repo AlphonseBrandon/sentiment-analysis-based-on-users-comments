@@ -14,6 +14,8 @@ Yes! I hope you got it. The do so from the reviews (user ratings and comments) o
 
 Build an NLP model and use it to predict sentiments in users comments
 
+![1668890815031](image/README/1668890815031.png)
+
 ### Methods Used
 
 * Modelling
